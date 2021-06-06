@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarthak Pathak
-- 👀 I’m a Software Development by profession and Data science enthusiast by education
+- 👀 I’m a Software Engineer by profession and Data science enthusiast by education
 
 
 <!---
